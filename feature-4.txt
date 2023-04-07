@@ -1,1 +1,3 @@
  Added a new feature by dev-2
+ 
+ Addded a new feature by dev-3
